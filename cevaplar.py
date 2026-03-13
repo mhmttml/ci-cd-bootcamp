@@ -11,33 +11,33 @@
 cevaplar = {
 
     # 🌀 Portal 1 — Hoşgeldin Portalı (Gülşah)
-    "vaka1": "MERHABA",
+    "vaka1": "",
 
     # 🌀 Portal 2 — Sayı Matrisi (Serhat)
-    "vaka2": "ALKU",
+    "vaka2": "",
 
     # 🌀 Portal 3 — Makinelerin Dili (Mehmet)
-    "vaka3": "CESARET",
+    "vaka3": "",
 
     # 🌀 Portal 4 — Gizli Portal (Okan)
-    "vaka4": "EVREN",
+    "vaka4": "",
 
     # 🌀 Portal 5 — Koordinat Haritası (Nigina)
-    "vaka5": "ROTA",
+    "vaka5": "",
 
     # 🌀 Portal 6 — İrem'in Şifre Kasası (İrem)
-    "vaka6": "ANAHTAR",
+    "vaka6": "",
 
     # 🌀 Portal 7 — Şiirin Portalı (Kaya)
-    "vaka7": "LABİRENT",
+    "vaka7": "",
 
     # 🌀 Portal 8 — Mors Sinyalleri (Serhat)
-    "vaka8": "ARAYIŞ",
+    "vaka8": "",
 
     # 🌀 Portal 9 — Mantık Kapısı (Core Crew)
-    "vaka9": "REHBER",
+    "vaka9": "",
 
     # 🌀 Portal 10 — Son Portal (Core Crew)
-    "vaka10": "MACERALAR",
+    "vaka10": "",
 
 }
